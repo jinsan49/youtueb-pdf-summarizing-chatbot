@@ -1,0 +1,6 @@
+chromadb==0.4
+torch==2.2 
+torchvision==0.2.2 
+torchaudio==2.2
+transformers==4.20.
+huggingface-hub==0.20

@@ -1,0 +1,4 @@
+vectordb github - https://github.com/kagisearch/vectordb/tree/main
+langcahin doc - https://python.langchain.com/v0.1/docs/use_cases/chatbots/quickstart/#prompt-templates
+streamlit doc - https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps#build-a-chatgpt-like-app
+huggingface embedding - https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
